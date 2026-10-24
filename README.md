@@ -117,8 +117,8 @@ Through this project, I practiced:
 
 Aspiring Data Analyst | Power BI | Data Visualization
 
-- GitHub: [Add your GitHub profile link](https://github.com/)
-- LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/)
+- GitHub: (https://github.com/PoorviRuhela)
+- LinkedIn: (https://www.linkedin.com/in/poorviruhela/)
 
 ## ⭐ Feedback
 
